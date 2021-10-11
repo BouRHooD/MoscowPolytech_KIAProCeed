@@ -20,3 +20,5 @@ RU: Беспилотное транспортное средство (БПТС) 
 
 <h1 align="left"> Контакты </h1>
 С нами можно связаться по почте bourhood@gmail.com
+
+А еще у нас есть [Instagram](https://www.instagram.com/self.driving.mpu/?r=nametag)
