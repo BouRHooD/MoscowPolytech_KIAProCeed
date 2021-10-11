@@ -1,5 +1,7 @@
 <h1 align="center">Self-driving KIA ProCeed</h1>
+
 ![Иллюстрация к проекту](https://github.com/BouRHooD/MoscowPolytech_KIAProCeed/raw/main/Docs/Images/OAMQwy686ig.jpg)
+
 <p align="center">
 
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" >
