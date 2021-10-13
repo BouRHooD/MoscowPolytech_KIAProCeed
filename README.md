@@ -18,8 +18,12 @@ RU: Беспилотное транспортное средство (БПТС) 
 
 ---
 <h1 align="left"> Документация </h1>
+
 [Инcтрукция по запуску автомобиля](https://github.com/BouRHooD/MoscowPolytech_KIAProCeed/raw/main/Docs/Connect_/Manual_po_ispolzovaniyu_KIA_ProCeed.docx)
+
 [Инcтрукция по запуску автомобиля](MoscowPolytech_KIAProCeed/Docs/Connect_/Manual_po_ispolzovaniyu_KIA_ProCeed.pdf)
+
+
 <h1 align="left"> Контакты </h1>
 С нами можно связаться по почте bourhood@gmail.com
 
