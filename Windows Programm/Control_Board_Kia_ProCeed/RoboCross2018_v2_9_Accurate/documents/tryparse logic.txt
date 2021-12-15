@@ -1,0 +1,13 @@
+Настройка преобразвания (парсинга) в зависимости от локализации
+
+double.TryParse("0.0000", NumberStyles.Number, CultureInfo.CreateSpecificCulture ("en-US"), out temp)
+
+
+
+Можно заранее определить объект настройки культуры:
+
+CultureInfo invC = CultureInfo.InvariantCulture;
+
+или 
+
+CultureInfo invC = CultureInfo.CreateSpecificCulture("en-US");

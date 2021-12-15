@@ -1,0 +1,2 @@
+C:\work\VS\RoboCross2018\RoboCross2018\bin\Debug\RoboCross2018.exe.config
+c:\work\VS\RoboCross2018\bin\Debug\RoboCross2018.exe.config

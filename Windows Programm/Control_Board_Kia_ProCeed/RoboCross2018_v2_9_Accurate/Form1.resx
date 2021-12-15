@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ArrowsModeMissionControlTargetAngleTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionPointTaskTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionPointTypeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKRAWCourceFieldTextBox.Text" xml:space="preserve">
+    <value>15                                                                                                                                                                                                                                                                    </value>
+  </data>
+  <data name="RTKRAWLattitudeFieldTextBox.Text" xml:space="preserve">
+    <value>4                                                                                                                                                                                                                                                     </value>
+  </data>
+  <data name="RTKRAWLongitudeFieldTextBox.Text" xml:space="preserve">
+    <value>2                                                                                                                                                                                                                                                                                       </value>
+  </data>
+  <data name="MissionControlRadiusTextBox.Text" xml:space="preserve">
+    <value>10                                                                                                                                                                                                                                                                                       </value>
+  </data>
+  <data name="MissionControlPointCourceTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="TargetPointLattitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="TargetPointLongitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="ManevrPointLattitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="ManevrPointLongitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionControlTargetAngleTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionManevrMaxTimerTextBox.Text" xml:space="preserve">
+    <value>2                                                                                                                                                                                                                                                                                  </value>
+  </data>
+  <data name="MissionManevrTimerTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionControDistanceTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionControlVectorTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionTimerTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionControlPointIDTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionControlPointLattitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="MissionControlPointLongitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKRawDataTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKRAWCourceTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKRAWLattitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKRAWLongitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKCurrentCourceTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKCurrentLattitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <data name="RTKCurrentLongitudeTextBox.Text" xml:space="preserve">
+    <value>                                                                                                                                                                                                                                                                                                   </value>
+  </data>
+  <metadata name="MainStatusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="ControlBoardSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>156, 21</value>
+  </metadata>
+  <metadata name="WheelEncodersSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>332, 17</value>
+  </metadata>
+  <metadata name="TerminalSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>520, 17</value>
+  </metadata>
+  <metadata name="ArduinoTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>695, 17</value>
+  </metadata>
+  <metadata name="MissionTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>821, 17</value>
+  </metadata>
+  <metadata name="FrameCaptureTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>945, 17</value>
+  </metadata>
+  <metadata name="TimeOutTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1104, 17</value>
+  </metadata>
+  <metadata name="RouteTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1233, 17</value>
+  </metadata>
+  <metadata name="SteeringBoardSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 56</value>
+  </metadata>
+  <metadata name="CourceVisualizationTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>198, 56</value>
+  </metadata>
+  <metadata name="JoystickTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>387, 56</value>
+  </metadata>
+  <metadata name="MissionOpenFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>511, 56</value>
+  </metadata>
+  <metadata name="IndicatorsSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>896, 57</value>
+  </metadata>
+  <metadata name="CheckIndicatorsTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1053, 57</value>
+  </metadata>
+  <metadata name="URGSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1222, 57</value>
+  </metadata>
+  <metadata name="URGReadTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1350, 57</value>
+  </metadata>
+  <metadata name="VectorMapOpenFileDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>703, 52</value>
+  </metadata>
+  <metadata name="UltrasonicSerialPort.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>1353, 16</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>84</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAQEAAAAEACAAoFgAAFgAAACgAAABAAAAAgAAAAAEACAAAAAAAABIAAPwnAAD8JwAAAAEAAAAA
+        AAAAAAAA////AP7+/gD9/f0A/Pz8APv7+wD6+voA+fn5APj4+AD39/cA9vb2APX19QD09PQA8/PzAPLy
+        8gDx8fEA8PDwAO/v7wDu7u4A7e3tAOzs7ADr6+sA6urqAOnp6QDo6OgA5+fnAObm5gDl5eUA5OTkAOPj
+        4wDi4uIA4eHhAODg4ADf398A3t7eAN3d3QDc3NwA29vbANra2gDZ2dkA2NjYANfX1wDW1tYA1dXVANTU
+        1ADT09MA0tLSANHR0QDQ0NAAz8/PAM7OzgDNzc0AzMzMAMvLywDKysoAycnJAMfHxwDGxsYAxcXFAMTE
+        xADDw8MAwsLCAMHBwQDAwMAAv7+/AL6+vgC9vb0AvLy8ALu7uwC5ubkAuLi4ALe3twC2trYAtbW1ALS0
+        tACzs7MAsrKyALGxsQCwsLAAr6+vAK6urgCtra0ArKysAKurqwCqqqoAqampAKioqACnp6cApqamAKWl
+        pQCkpKQAo6OjAKKiogChoaEAoKCgAJ+fnwCenp4AnZ2dAJycnACbm5sAmpqaAJmZmQCYmJgAl5eXAJaW
+        lgCVlZUAlJSUAJOTkwCSkpIAkZGRAJCQkACPj48Ajo6OAI2NjQCMjIwAi4uLAIqKigCJiYkAh4eHAIaG
+        hgCFhYUAhISEAIODgwCCgoIAgYGBAICAgAB/f38Afn5+AH19fQB8fHwAe3t7AHl5eQB4eHgAd3d3AHZ2
+        dgB1dXUAdHR0AHNzcwBycnIAcXFxAHBwcABvb28Abm5uAG1tbQBsbGwAa2trAGpqagBpaWkAZ2dnAGZm
+        ZgBlZWUAZGRkAGNjYwBiYmIAYWFhAGBgYABfX18AXl5eAF1dXQBcXFwAW1tbAFpaWgBZWVkAWFhYAFZW
+        VgBVVVUAVFRUAFNTUwBSUlIAUVFRAFBQUABPT08ATk5OAE1NTQBMTEwAS0tLAEpKSgBJSUkASEhIAEdH
+        RwBGRkYARUVFAERERABDQ0MAQkJCAEFBQQBAQEAAPz8/AD4+PgA9PT0APDw8ADs7OwA5OTkAODg4ADc3
+        NwA2NjYANTU1ADQ0NAAzMzMAMjIyADExMQAwMDAALy8vAC4uLgAtLS0ALCwsACsrKwAqKioAKSkpACgo
+        KAAnJycAJiYmACUlJQAkJCQAIyMjACIiIgAhISEAICAgAB8fHwAeHh4AHR0dABwcHAAbGxsAGhoaABkZ
+        GQAXFxcAFhYWABUVFQAUFBQAExMTABEREQAQEBAADw8PAA4ODgANDQ0ADAwMAAsLCwAKCgoACQkJAAgI
+        CAAHBwcABgYGAAUFBQAEBAQAAwMDAAICAgABAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEPLkVgdomPjY+JdmFFLg8BAQEBAQEBAQEB
+        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBIFCLrqyKZkY2KyUrNkZmiq2uiE8fAQEB
+        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQVBjrSEOQ8BAQEBAQEBAQEBAQEBDz2F
+        s41ABQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBBE6pokEIAQEBGTJIaoqhpKGLa0Yv
+        FQEBAQZBoqhNBAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBOqicKwEBAQFKt+cAAAAAAAAA
+        AAAA9eWzYSsJAQEsnKc2AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEKe7U6AQERKwEBxAAAAAAA
+        AAAAAAAAAAAAAADuXgEBAQE6uHsKAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEpsIICAQdZ2IgBB9QA
+        AAAAAAAAAAAAAAAAAADVTQMBASwIAQWDrigBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQFStkUBAUXBAABg
+        ARroAAAAAAAAAAAAAAAAAACYFAEBIZzzwEIBAUW2UgEBAQEBAQEBAQEBAQEBAQEBAQEBAQFntB8BCokA
+        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
+        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAyA5S2J1fYB8dWJLOR8CAQEBAQEB
+        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+        AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+</root>
