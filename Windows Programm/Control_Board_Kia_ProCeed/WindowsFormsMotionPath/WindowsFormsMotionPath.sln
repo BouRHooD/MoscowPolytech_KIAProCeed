@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsMotionPath", "WindowsFormsMotionPath\WindowsFormsMotionPath.csproj", "{68F8AF03-0821-4C23-9B96-D40D4C2ACC10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F8AF03-0821-4C23-9B96-D40D4C2ACC10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F8AF03-0821-4C23-9B96-D40D4C2ACC10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F8AF03-0821-4C23-9B96-D40D4C2ACC10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F8AF03-0821-4C23-9B96-D40D4C2ACC10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF865EE-3878-49EC-9749-FF2F959B95D3}
+	EndGlobalSection
+EndGlobal

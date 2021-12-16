@@ -1,0 +1,10 @@
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\bin\Debug\WindowsFormsMotionPath.exe.config
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\bin\Debug\WindowsFormsMotionPath.exe
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\bin\Debug\WindowsFormsMotionPath.pdb
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.csproj.AssemblyReference.cache
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.Properties.Resources.resources
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.csproj.GenerateResource.cache
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.csproj.CoreCompileInputs.cache
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.exe
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.pdb
+C:\Users\Surflay\source\repos\WindowsFormsMotionPath\WindowsFormsMotionPath\obj\Debug\WindowsFormsMotionPath.MainForm.resources
